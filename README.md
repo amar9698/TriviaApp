@@ -1,1 +1,2 @@
 # TriviaApp
+Made some changes
